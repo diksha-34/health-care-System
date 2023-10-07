@@ -1,0 +1,18 @@
+SMAP
+appointment_jsp.java
+JSP
+*S JSP
+*F
++ 0 appointment.jsp
+appointment.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,42:50
+1#1,236:92
+42#0,102:327
+1#2,115:429
+143#0,4:543
+*E
